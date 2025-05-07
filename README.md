@@ -1,6 +1,8 @@
 # 🕵️‍♂️ BLACK OPS – Real-Time Web Threat Hunter
 
-![Black Ops Banner](https://i.postimg.cc/bYbRT5Fp/A-banner-image-for-a-cybersecurity-tool-named-Bla.png)
+![Black Ops Banner](https://i.postimg.cc/bYbRT5Fp/A-banner-image-for-a-cybersecurity-tool-named-Bla.png) 
+## ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=rafiqnur007.black-ops) 
+
 
 **Black Ops** is a Python-based security tool designed for real-time threat detection and automatic blocking of malicious IPs targeting web servers. It monitors access logs (e.g., Nginx, Apache), detects suspicious behavior like SQL injection scanners or brute-force attempts, and dynamically blocks the source IPs using `iptables`.
 
