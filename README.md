@@ -88,5 +88,6 @@ This project is licensed under the [MIT License](./LICENSE).
 
 ### 👨‍💻 Author
 
-**Black Ops** was built with 🔥 by **Rafiq Nur**, cybersecurity enthusiast and CTF team leader.  
-> Follow updates and features as the project grows on GitHub!
+**Black Ops** was built with Python by **Rafiq Nur**.
+<p><a href="https://www.buymeacoffee.com/nusec"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nusec" /></a></p><br><br>
+ Follow updates and features as the project grows on GitHub!
