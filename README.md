@@ -22,7 +22,7 @@
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/black-ops.git
+git clone https://github.com/rafiqnur007/blackops.git
 cd black-ops
 pip install .
 ```
@@ -43,7 +43,7 @@ Edit `blackops/config.py` to customize:
 ## 🛡️ Usage
 
 ```bash
-sudo python3 scripts/run_blackops.py
+sudo python3 scripts/blackops.py
 ```
 
 - The script will continuously monitor the log file.
@@ -62,7 +62,7 @@ black-ops/
 │   └── core.py
 │
 ├── scripts/
-│   └── run_blackops.py
+│   └── blackops.py
 │
 ├── denylist.txt
 ├── requirements.txt
