@@ -23,7 +23,7 @@
 
 ```bash
 git clone https://github.com/rafiqnur007/blackops.git
-cd black-ops
+cd blackops
 pip install .
 ```
 
